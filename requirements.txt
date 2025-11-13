@@ -1,1 +1,8 @@
 requests
+tensorflow
+keras
+numpy
+scikit-learn
+matplotlib
+tf-nightly
+moviepy
